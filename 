@@ -1,0 +1,42 @@
+[33mcommit 88732e9f5a36bc6f2537ff133091ed23bb82f2c9[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mupdate_titles[m[33m)[m
+Author: andrecello <andre.thomascello@gmail.com>
+Date:   Tue Nov 3 18:44:55 2026 -1000
+
+    G: updated titles.md
+
+[33mcommit a5e72367c9620fff4b2712387c757d32a32460b1[m[33m ([m[1;32mmain[m[33m)[m
+Merge: bfef6ec c64ed58
+Author: andrecello <andre.thomascello@gmail.com>
+Date:   Sat Oct 31 08:23:44 2026 -1000
+
+    F: Merge branch 'add_classics'
+
+[33mcommit bfef6ec59cf23ffb06801a39b76a8b8cd0a98639[m
+Author: andrecello <andre.thomascello@gmail.com>
+Date:   Fri Oct 30 18:29:54 2026 -1000
+
+    E: adding data to contents.md
+
+[33mcommit c64ed580b63d2437cd7710b843a69132f317ae54[m
+Author: andrecello <andre.thomascello@gmail.com>
+Date:   Fri Oct 30 18:02:05 2026 -1000
+
+    D: adding classics.csv file
+
+[33mcommit 1c879828e75972622138ffcdffdde7df0ab196ab[m
+Author: andrecello <andre.thomascello@gmail.com>
+Date:   Sun Oct 25 17:33:15 2026 -1000
+
+    C: Adding quotes to the project
+
+[33mcommit 6e014c05ae3cd88ed9e18e13f5ee5c1890905a79[m
+Author: andrecello <andre.thomascello@gmail.com>
+Date:   Sun Oct 25 11:14:51 2026 -1000
+
+    B: Adding titles.md
+
+[33mcommit 59b99f7556df40530e6db6d55e10bd6caf8974d3[m
+Author: andrecello <andre.thomascello@gmail.com>
+Date:   Sat Oct 24 16:18:06 2026 -1000
+
+    A: add contents.md
